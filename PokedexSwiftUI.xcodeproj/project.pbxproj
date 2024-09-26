@@ -14,6 +14,7 @@
 		872AF53E2CA5E202000548D4 /* PokemonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872AF53D2CA5E202000548D4 /* PokemonCell.swift */; };
 		872AF5412CA5E3D2000548D4 /* PokedexView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872AF5402CA5E3D2000548D4 /* PokedexView.swift */; };
 		872AF5432CA5E8BB000548D4 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872AF5422CA5E8BB000548D4 /* Pokemon.swift */; };
+		872AF5452CA5ECB3000548D4 /* PokemonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872AF5442CA5ECB3000548D4 /* PokemonViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		872AF53D2CA5E202000548D4 /* PokemonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonCell.swift; sourceTree = "<group>"; };
 		872AF5402CA5E3D2000548D4 /* PokedexView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexView.swift; sourceTree = "<group>"; };
 		872AF5422CA5E8BB000548D4 /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		872AF5442CA5ECB3000548D4 /* PokemonViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		872AF5342CA5DD56000548D4 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				872AF5442CA5ECB3000548D4 /* PokemonViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			files = (
 				872AF5432CA5E8BB000548D4 /* Pokemon.swift in Sources */,
 				872AF53B2CA5DD56000548D4 /* ContentView.swift in Sources */,
+				872AF5452CA5ECB3000548D4 /* PokemonViewModel.swift in Sources */,
 				872AF53C2CA5DD56000548D4 /* PokedexSwiftUIApp.swift in Sources */,
 				872AF53E2CA5E202000548D4 /* PokemonCell.swift in Sources */,
 				872AF5412CA5E3D2000548D4 /* PokedexView.swift in Sources */,
